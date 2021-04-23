@@ -1,0 +1,67 @@
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\bin\Debug\WindowsApplication.exe.config
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.frmAbout.resources
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.frmBatch.resources
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.frmGrading.resources
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.frmHistory.resources
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.frmMDI.resources
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.frmStudent.resources
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Users\Administrator\Desktop\BITCollege_NT\WindowsApplication\obj\Debug\WindowsApplication.pdb
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\bin\Debug\WindowsApplication.exe.config
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.frmAbout.resources
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.frmBatch.resources
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.frmGrading.resources
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.frmHistory.resources
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.frmMDI.resources
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.frmStudent.resources
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Users\Jack\Desktop\ADEV\Assignment 3 Files\Assignment 3 Files\WindowsApplication\obj\Debug\WindowsApplication.pdb
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\WindowsApplication.exe.config
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.Optimization.dll
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.Mvc.dll
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.WebPages.dll
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.Razor.dll
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\BITCollege_NN.pdb
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\BITCollege_NN.dll.config
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\Utility.pdb
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.Optimization.xml
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.Mvc.xml
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\EntityFramework.xml
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.WebPages.xml
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.Razor.xml
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.frmAbout.resources
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.frmBatch.resources
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.frmGrading.resources
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.frmHistory.resources
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.frmMDI.resources
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.frmStudent.resources
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.cache
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.csproj.CopyComplete
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\obj\Debug\WindowsApplication.pdb
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\Jack\source\repos\BITCollegeSite\WindowsApplication\bin\Debug\Utility.dll
